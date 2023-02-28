@@ -1,0 +1,23 @@
+{
+  "id": "",
+  "addresses":[],
+  "event": "OfferCreated(uint256,uint256,address,uint256,uint8,bool,bool)",
+  "fieldNames": [
+    "offerId",
+    "tokenId",
+    "user",
+    "price",
+    "currencyId",
+    "fulfilled",
+    "cancelled",
+  ],
+  "modelConfig": {
+    "name": "Offers",
+    "primaryKeyIndex": 0
+  },
+  "actions": [
+    {
+      "name": "save"
+    }
+  ]
+}

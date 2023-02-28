@@ -1,0 +1,55 @@
+[{
+	"_id": {
+		"$oid": "62b9db1fb58f3a2984bf783d"
+	},
+	"rpc": "https://bsc-dataseed1.binance.org",
+	"socket": "ws://localhost:8999/bsc",
+	"resolverType": "1",
+	"name": "Binance"
+},
+{
+	"_id": {
+		"$oid": "62b9db4db58f3a2984bf783e"
+	},
+	"rpc": "https://evm.kava.io",
+	"socket": "wss://wevm.kava.io",
+	"resolverType": "1",
+	"name": "Kava"
+},
+{
+	"_id": {
+		"$oid": "62b9dbc3b58f3a2984bf7843"
+	},
+	"rpc": "https://rpc.ftm.tools",
+	"socket": "wss://wsapi.fantom.network",
+	"resolverType": "1",
+	"name": "Fantom"
+},
+{
+	"_id": {
+		"$oid": "62b9dbe4b58f3a2984bf7886"
+	},
+	"rpc": "https://polygon-rpc.com",
+	"socket": "wss://ws-matic-mainnet.chainstacklabs.com",
+	"resolverType": "1",
+	"name": "Polygon Mainnet"
+},
+{
+	"_id": {
+		"$oid": "62b9dbf9b58f3a2984bf78b3"
+	},
+	"rpc": "https://api.avax.network/ext/bc/C/rpc",
+	"socket": "ws://localhost:8999/avax",
+	"resolverType": "1",
+	"name": "Avax"
+},
+{
+	"_id": {
+		"$oid": "62b9dbf9b58f3a2984bf71b3"
+	},
+	"rpc": "https://forno.celo.org",
+	"socket": "wss://forno.celo.org/celo",
+	"resolverType": "1",
+	"name": "Celo"
+}]
+

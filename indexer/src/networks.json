@@ -1,0 +1,13 @@
+[
+  {
+    "name": "Tmy",
+    "chainId": "8768",
+    "rpc": "https://node1.tmyblockchain.org/rpc",
+    "fake": {
+      "interval": 2000
+    },
+    "restApp": {
+      "port": "8000"
+    }
+  }
+]

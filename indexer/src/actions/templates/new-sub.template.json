@@ -1,0 +1,25 @@
+{
+  "id": 0,
+  "addresses": [
+    "0xEe1f035fc3b7e54Cbe253Bd26e9DB9B875e55066"
+  ],
+  "event": "NewMarketplace(address,address,address[],uint8)",
+  "fieldNames": [
+    "market",
+    "nftCollection",
+    "currencies",
+    "authorFee"
+  ],
+  "modelConfig": {
+    "name": "Marketplaces",
+    "primaryKeyIndex": 0
+  },
+  "actions": [
+    {
+      "name": "save"
+    },
+    {
+      "name": "newSubscribe"
+    }
+  ]
+}

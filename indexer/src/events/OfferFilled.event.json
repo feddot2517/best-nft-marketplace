@@ -1,0 +1,1 @@
+{"id":"OfferFilled.id","addresses":["0xc19edBE8A17dD9DC5A5dBd2776bF58244963BA24","0x4DD90b2a4439587E9532330f34503F8BAD1B1e79"],"event":"OfferFilled(uint256,uint256,address)","fieldNames":["offerId","tokenId","newOwner"],"actions":[{"name":"updateField","params":["OfferCreated.id","offerId","fulfilled","true"]}]}

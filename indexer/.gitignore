@@ -1,0 +1,7 @@
+# Project exclude paths
+/node_modules/
+/build
+.env
+.env-base
+.env-test
+/docker/data/postgres/
